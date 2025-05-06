@@ -1,0 +1,3 @@
+test@test,Deneme,false,Manifesto - Sezen Aksu - Biraz Pop Biraz Sezen|Sen Ağlama - Sezen Aksu - Sen Ağlama|Beni Unutma - Sezen Aksu - Git|Sen ya da Hiç - Madrigal - Single|Kelebekler - Madrigal - Single
+test@test,SınırDeneme,false,Seni Dert Etmeler - Madrigal - Single|Kelebekler - Madrigal - Single|Firuze - Sezen Aksu - Firuze|Ağlamak Güzeldir - Sezen Aksu - Ağlamak Güzeldir|Hata - Sezen Aksu - Single
+testpre@test,PreDeneme,false,İçime Sinmiyor - Sezen Aksu - Serçe|Geri Dön - Sezen Aksu - Sen Ağlama|Olmaz Olsun - Sezen Aksu - Allahaısmarladık
